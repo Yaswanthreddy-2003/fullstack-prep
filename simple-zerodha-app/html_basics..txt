@@ -1,0 +1,66 @@
+html tag defines the root of html document.
+<html> tag is the container for all html elements.
+
+head tag contains metadata about the document.
+metadata means information about the data or the web page like title,description etc.
+
+body tag contains all the visible content of the web page.
+for eg: text,images,paragraphs,links etc.
+
+div tag
+div meant division.
+div tag defines a division or section in html document.
+div tag is used as container for html elements, which then can be styled using css and manipulated using js.
+Meant that the code written inside div tag will be treated as a single unit.
+div is a block level element meaning it takes full width of the page and starts from new line.
+
+span tag
+sapn tag is used to group elements in the same line(inline).
+span is an inline element meaning it takes only the width of the content and does not start from new line.
+
+div and span tags are used for code structuring and styling using css.
+div is a block level element and span is an inline element.
+
+Heading tags
+Heading tags are used to define headings in html page.
+6 heading tags from h1 to h6.
+h1 is the most important heading and h6 is the least important heading.(size wise h1 is biggest and h6 is smallest)
+
+paragraph tag
+<p></p> tag is used to define a paragraph.
+
+img tag
+image tag is used to define an image.
+<img src=" " alt=""> alt means alternative text.
+
+center tag
+<center></center> tag is used to center align the content.
+
+Anchor tag(<a></a>)
+Used to create hyperlinks, which allows users to navigate to different web pages or sectons of the same page.
+
+bold and italic tags(<b></b> and <i></i>)
+<b></b> tag is used to make text bold.
+<i></i> tag is used to make text italic.
+
+button tag
+<button></button> tag is used to create a button.
+
+input tag
+<input type=""> tag is used to create an input field.
+placeholder is used to provide a hint about what to enter in the input field.
+
+Attributes
+Provides additional info abt an element.
+Modifies behavior or appearence of html tag.
+Example: href in a tag, src in img, type in input, class in div, id in div etc.
+
+If tag is a person, then attributes are name, age, gender etc.
+
+
+
+
+
+
+
+
