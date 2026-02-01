@@ -1,0 +1,5 @@
+CSS stands for cascading style sheets.
+CSS is used to add styles to your html website and used for positioning things on the page.
+
+padding is used to generate space around element's content, inside of any defined borders.
+margin is
